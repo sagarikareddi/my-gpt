@@ -26,6 +26,7 @@ export const generateChatCompletion = async (req, res, next) => {
         });
         user.chats.push(chatResponse.data.choices[0].message);
         await user.save();
+        console.log(user.chats)
         return res.status(200).json({ chats: user.chats });
     }
     catch (error) {
