@@ -1,5 +1,6 @@
 # My-GPT Overview:
-In this project, I developed a comprehensive full stack application reminiscent of ChatGPT, integrating various technologies and features to provide a modern, responsive, and secure chat experience. Leveraging the MERN (MongoDB, Express.js, React, Node.js) stack
+In this project, I developed a comprehensive full stack application reminiscent of ChatGPT, integrating various technologies and features to provide a modern, responsive, and secure chat experience. Leveraging the MERN (MongoDB, Express.js, React, Node.js) stack.
+
 Key Features:
 User Authentication and Authorization:Developed a robust authentication and authorization system to manage user access securely.
 Express-Validators Middleware:Implemented express-validators middleware for data validation, ensuring the integrity and validity of user inputs.
